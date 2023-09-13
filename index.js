@@ -11,3 +11,10 @@
 // var $myname = "Affroddin";      
 
 // console.log($myname);
+
+
+
+var a = 10
+for (let b= 1; b<=10; b++){
+    console.log(`The table of ${a}*${b} = ${a*b}`)
+}
